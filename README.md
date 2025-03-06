@@ -1,16 +1,12 @@
-## Hi there 👋
+# Привет! Меня зовут Алан.
+## Я инженер по тестированию программного обеспечения.</br>
 
-<!--
-**AlanDzhigkaev/AlanDzhigkaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table width="100%" border='0'>
+<tr> 
+    <td>Бакалавриат. 2019-2023</td><td valign="middle">Финансовый университет при правительстве РФ.<br>Бизнес-информатика</td>
+</tr>
+<tr>
+    <td>Магистратура. 2023-2025</td><td valign="middle">Финансовый университет при правительстве РФ.<br>Бизнес-информатика</td>
+</tr>
+</table>
+</br>
